@@ -1,6 +1,6 @@
 -- import: fifthtry.github.io/package-doc/doc as pd
 -- import: fifthtry.github.io/package-doc/forest-theme as ds
--- import: <user_name>.github.io/<repo_name>/custom
+-- import: jahanvir.github.io/font-hindi/custom
 -- import: fifthtry.github.io/package-doc/footer
 
 
@@ -8,7 +8,7 @@
 
 -- ds.page: 
 show-footer: true
-site-name: `<repo_name>`
+site-name: `font-hindi`
 
 -- ds.page.footer:
 
@@ -16,17 +16,17 @@ site-name: `<repo_name>`
 
 -- end: ds.page.footer
 
--- pd.package: <repo_name> package
-name: <user_name>.github.io/<repo_name>
+-- pd.package: font-hindi package
+name: jahanvir.github.io/font-hindi
 
-This FTD font `<repo_name>` can be used for your ftd web projects. 
+This FTD font `font-hindi` can be used for your ftd web projects. 
 
-To Use this <repo_name> inside `FTD` project visit [<repo_name>-typography](https://<user_name>.github.io/<repo_name>-typography).
+To Use this font-hindi inside `FTD` project visit [font-hindi-typography](https://jahanvir.github.io/font-hindi-typography).
 
--- ds.h3: <repo_name> various sizes
+-- ds.h3: font-hindi various sizes
 
 -- ftd.text: 
-role: $custom.<repo_name>-size-12-400
+role: $custom.font-hindi-size-12-400
 color: $inherited.colors.text-strong
 
 `font-size: 12px, font-weight: 400` 
@@ -35,7 +35,7 @@ color: $inherited.colors.text-strong
 
 
 -- ftd.text: 
-role: $custom.<repo_name>-size-12-800
+role: $custom.font-hindi-size-12-800
 color: $inherited.colors.text-strong
 
 `font-size: 12px, font-weight: 500` 
@@ -43,7 +43,7 @@ color: $inherited.colors.text-strong
 👉 The quick brown fox jumps over the lazy dog 
 
 -- ftd.text: 
-role: $custom.<repo_name>-size-12-800
+role: $custom.font-hindi-size-12-800
 color: $inherited.colors.text-strong
 
 `font-size: 12px, font-weight: 800` 
@@ -52,7 +52,7 @@ color: $inherited.colors.text-strong
 
 
 -- ftd.text: 
-role: $custom.<repo_name>-size-18-400
+role: $custom.font-hindi-size-18-400
 color: $inherited.colors.text-strong
 
 `font-size: 18px, font-weight: 400` 
@@ -60,7 +60,7 @@ color: $inherited.colors.text-strong
 👉 The quick brown fox jumps over the lazy dog 
 
 -- ftd.text: 
-role: $custom.<repo_name>-size-18-500
+role: $custom.font-hindi-size-18-500
 color: $inherited.colors.text-strong
 
 `font-size: 18px, font-weight: 500` 
@@ -68,7 +68,7 @@ color: $inherited.colors.text-strong
 👉 The quick brown fox jumps over the lazy dog 
 
 -- ftd.text: 
-role: $custom.<repo_name>-size-18-800
+role: $custom.font-hindi-size-18-800
 color: $inherited.colors.text-strong
 
 `font-size: 18px, font-weight: 800` 
@@ -76,7 +76,7 @@ color: $inherited.colors.text-strong
 👉 The quick brown fox jumps over the lazy dog 
 
 -- ftd.text: 
-role: $custom.<repo_name>-size-48-400
+role: $custom.font-hindi-size-48-400
 color: $inherited.colors.text-strong
 
 `font-size: 48px, font-weight: 400` 
@@ -84,7 +84,7 @@ color: $inherited.colors.text-strong
 👉 The quick brown fox jumps over the lazy dog 
 
 -- ftd.text: 
-role: $custom.<repo_name>-size-48-500
+role: $custom.font-hindi-size-48-500
 color: $inherited.colors.text-strong
 
 `font-size: 48px, font-weight: 500` 
@@ -92,7 +92,7 @@ color: $inherited.colors.text-strong
 👉 The quick brown fox jumps over the lazy dog 
 
 -- ftd.text:
-role: $custom.<repo_name>-size-48-800
+role: $custom.font-hindi-size-48-800
 color: $inherited.colors.text-strong
 
 `font-size: 48px, font-weight: 800` 
