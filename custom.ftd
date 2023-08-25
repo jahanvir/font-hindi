@@ -196,13 +196,13 @@ mobile: $font-hindi-size-18-mobile
 -- ftd.type font-hindi-size-18-500-desktop:
 size.px: 18
 weight: 500
-font-family: $font-hindi-assets.fonts.<font-name>
+font-family: $font-hindi-assets.fonts.Tiro-Devanagari-Hindi
 
 
 -- ftd.type font-hindi-size-18-500-mobile:
 size.px: 18
 weight: 500
-font-family: $font-hindi-assets.fonts.<font-name>
+font-family: $font-hindi-assets.fonts.Tiro-Devanagari-Hindi
 
 -- ftd.responsive-type font-hindi-size-18-500:
 desktop: $font-hindi-size-18-500-desktop
@@ -215,13 +215,13 @@ mobile: $font-hindi-size-18-500-mobile
 -- ftd.type font-hindi-size-18-800-desktop:
 size.px: 18
 weight: 800
-font-family: $font-hindi-assets.fonts.<font-name>
+font-family: $font-hindi-assets.fonts.Tiro-Devanagari-Hindi
 
 
 -- ftd.type font-hindi-size-18-800-mobile:
 size.px: 18
 weight: 800
-font-family: $font-hindi-assets.fonts.<font-name>
+font-family: $font-hindi-assets.fonts.Tiro-Devanagari-Hindi
 
 -- ftd.responsive-type font-hindi-size-18-800:
 desktop: $font-hindi-size-18-800-desktop
@@ -234,13 +234,13 @@ mobile: $font-hindi-size-18-800-mobile
 -- ftd.type font-hindi-size-48-desktop:
 size.px: 48
 weight: 400
-font-family: $font-hindi-assets.fonts.<font-name>
+font-family: $font-hindi-assets.fonts.Tiro-Devanagari-Hindi
 
 
 -- ftd.type font-hindi-size-48-mobile:
 size.px: 48
 weight: 400
-font-family: $font-hindi-assets.fonts.<font-name>
+font-family: $font-hindi-assets.fonts.Tiro-Devanagari-Hindi
 
 -- ftd.responsive-type font-hindi-size-48-400:
 desktop: $font-hindi-size-48-desktop
@@ -253,13 +253,13 @@ mobile: $font-hindi-size-48-mobile
 -- ftd.type font-hindi-size-48-500-desktop:
 size.px: 48
 weight: 500
-font-family: $font-hindi-assets.fonts.<font-name>
+font-family: $font-hindi-assets.fonts.Tiro-Devanagari-Hindi
 
 
 -- ftd.type font-hindi-size-48-500-mobile:
 size.px: 48
 weight: 500
-font-family: $font-hindi-assets.fonts.<font-name>
+font-family: $font-hindi-assets.fonts.Tiro-Devanagari-Hindi
 
 -- ftd.responsive-type font-hindi-size-48-500:
 desktop: $font-hindi-size-48-500-desktop
@@ -272,13 +272,13 @@ mobile: $font-hindi-size-48-500-mobile
 -- ftd.type font-hindi-size-48-800-desktop:
 size.px: 48
 weight: 800
-font-family: $font-hindi-assets.fonts.<font-name>
+font-family: $font-hindi-assets.fonts.Tiro-Devanagari-Hindi
 
 
 -- ftd.type font-hindi-size-48-800-mobile:
 size.px: 48
 weight: 800
-font-family: $font-hindi-assets.fonts.<font-name>
+font-family: $font-hindi-assets.fonts.Tiro-Devanagari-Hindi
 
 -- ftd.responsive-type font-hindi-size-48-800:
 desktop: $font-hindi-size-48-800-desktop
