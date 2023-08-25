@@ -1,0 +1,20 @@
+-- import: fastn
+
+-- fastn.package: <user_name>.github.io/<repo_name>
+
+-- fastn.dependency: fifthtry.github.io/package-doc
+
+
+
+
+
+-- fastn.sitemap:
+
+
+# Home: index.html
+
+- Custom Font: custom/
+
+# GitHub 
+  url: https://github.com/<user_name>/<repo_name>
+
